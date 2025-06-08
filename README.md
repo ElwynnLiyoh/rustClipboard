@@ -48,7 +48,7 @@ You can open web GUI at http://localhost:8081 by default.
 
 ## Acknowledgement
 
-The frontend of this project was modified from [Juice_clipboard](https://github.com/ericjuice/Juice_clipboard), whose backend was written by Python 3. Thanks [Juice](https://blog.juis.top/). :)
+The frontend of this project was modified from [Juice_clipboard](https://github.com/ericjuice/Juice_clipboard), whose backend was written in Python 3. Thanks [Juice](https://blog.juis.top/). :)
 
 ## TODO
 
