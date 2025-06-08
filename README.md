@@ -22,7 +22,7 @@ Before you start, make sure you have installed the following dependencies:
 
 2. [Redis](https://redis.io/). Make sure you have installed redis and started it. Remember to modify `backend/Config.toml` to your redis authentication info.
 
-3. [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable). Make sure you have installed yarn, and then use `yarn` to install the frontend dependencies in the frontend directory. If it prompts that there are some missing dependencies, just install them.
+3. [yarn](https://classic.yarnpkg.com/en/docs/getting-started). Make sure you have installed yarn, and then use `yarn` to install the frontend dependencies in the frontend directory. If it prompts that there are some missing dependencies, just install them.
 
 > Tips: When you have installed rust and redis, you can use `cargo test` in the backend directory to make sure the backend server can work properly.
 
