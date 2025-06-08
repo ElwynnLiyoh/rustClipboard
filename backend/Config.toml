@@ -8,4 +8,4 @@ password = ""
 [general]
 hash_len = 4 # top hash length
 max_expire_time = 86400 # unit: second
-max_content_limit = 8_388_608 # unit: byte, default: 8MB
+max_content_limit = 8_388_608 # unit: byte, default: 8MiB
