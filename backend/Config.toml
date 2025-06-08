@@ -1,0 +1,11 @@
+# you can override redis config here
+[redis]
+host = "127.0.0.1"
+port = 6379
+db = 0
+password = ""
+
+[general]
+hash_len = 4 # top hash length
+max_expire_time = 86400 # unit: second
+max_content_limit = 8_388_608 # unit: byte, default: 8MB
